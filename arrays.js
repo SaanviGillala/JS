@@ -1,0 +1,1 @@
+console.log("This file is for creating all types of arrays!")
