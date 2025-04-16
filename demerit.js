@@ -1,4 +1,4 @@
-checkSpeed(130);
+checkSpeed(55);
 function checkSpeed(speed) {
     
     const speedLimit = 70;
@@ -16,4 +16,4 @@ function checkSpeed(speed) {
             console.log("points", points);
     
 }
- 
+checkSpeed 

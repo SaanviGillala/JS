@@ -15,11 +15,10 @@ function createCircle(radius) {
 const myCircle  = createCircle(1)
 
 // Constructor Function - Pascal Notation
-function Circle(radius) {
+function Circle(radius  ) {
     this.radius = radius;
     this.draw = function () {
         console.log("draw");
     }
- }
-return createCircle
-const circle = new Circle(1);
+}
+ createCircle
